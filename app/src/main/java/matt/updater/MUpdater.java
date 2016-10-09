@@ -19,7 +19,7 @@ import java.net.URLConnection;
 
 /**
  * #######################################
- * Created by Matt on 08/10/2016.
+ * Created by Matt (matgasp) on 08/10/2016.
  * ############# Dependences #############
  * <uses-permission android:name="android.permission.INTERNET"></uses-permission>
  * <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>

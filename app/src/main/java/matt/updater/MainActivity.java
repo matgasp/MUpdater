@@ -11,7 +11,7 @@ import java.io.File;
 
 public class MainActivity extends AppCompatActivity
 {
-    private static final String UPDATE_URL = "http://www.mshieldprotect.com.br/uploads/apps/mShield.apk";
+    private static final String UPDATE_URL = "http://yourwebsite.com/YourApp.apk";
     private static final String UPDATE_PATH = "/sdcard/Your Folder/YourApp.apk";
     private ProgressBar pbProgress;
     private Button btnDirectly;
